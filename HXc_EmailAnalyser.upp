@@ -1,0 +1,15 @@
+uses
+	Core,
+	Sql,
+	plugin/sqlite3,
+	HXc_LanguageDataBase;
+
+file
+	HXc_EmailAnalyser.sch,
+	HXc_EmailAnalyser.h,
+	HXc_EmailAnalyser.cpp,
+	HXc_SchemaDefinition.h;
+
+mainconfig
+	"" = "";
+
